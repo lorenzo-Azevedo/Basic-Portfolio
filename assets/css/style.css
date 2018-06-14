@@ -1,0 +1,29 @@
+body {
+    background-image: url('../images/cubes.jpg');
+    background-repeat: repeat;
+    background: ;
+}
+.about {
+    width: 960px;
+    background-color: white;
+    margin: 0 auto 0 auto;
+    position: relative;
+    padding: 20px 10px 20px 10px;
+}
+footer {
+    background: black;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    color: white;
+    border: 20px;
+    border-top-color: aqua;
+}
+h1 {
+    background-color: black;
+    color: white;
+    width: 280px;
+    text-align: center;
+    position: relative;
+    
+}
